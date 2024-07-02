@@ -1,0 +1,35 @@
+
+body{
+    background-image:url(https://i.pinimg.com/564x/06/b5/c2/06b5c21522a1ac02b183c09d4fff6096.jpg);
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+}
+
+nav ul {
+    gap: 1em;
+}
+
+.box{
+    margin-left:auto;
+    margin-top: 3.75em ;
+    margin-bottom: 3.75em; ;
+    margin-right: auto;
+    border: 2px solid white;    
+}
+
+.hero{
+    margin-top:7em;
+    margin-left: 4em;
+}
+.icons a{
+    color: black;   
+}
+.icons a:hover{
+    color: blue;
+}
+.icons{
+    display: flex;
+    justify-content: flex-end;
+    gap: 0.4em;
+}
